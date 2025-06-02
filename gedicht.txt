@@ -13,3 +13,5 @@ hat Leon recht
 Igor ist ein besser Wisser, 
 einem Igor folgt man nicht,
 wusste schon das git-Gedicht - git blame gedicht.txt - das merk ich mir @palfinger 
+Das Hirn ist gut und voller Grips,
+aber ai kann das leider nicht :(
