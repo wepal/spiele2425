@@ -8,6 +8,8 @@ Igor macht nen Pull Request,
 wir machen ein großes Fest.
 Leon spielt Geoguesser
 Noah ist besser
+Ist Noah schlecht
+hat Leon recht
 Igor ist ein besser Wisser,
 einem Igor folgt man nicht,
 wusste schon das git-Gedicht
