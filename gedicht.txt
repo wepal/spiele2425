@@ -15,3 +15,5 @@ einem Igor folgt man nicht,
 wusste schon das git-Gedicht - git blame gedicht.txt - das merk ich mir @palfinger 
 Das Hirn ist gut und voller Grips,
 aber ai kann das leider nicht :(
+Das weiß der eine ganz genau,
+das ist was, macht den Menschen schlau.
