@@ -10,6 +10,6 @@ Leon spielt Geoguesser
 Noah ist besser
 Ist Noah schlecht
 hat Leon recht
-Igor ist ein besser Wisser,
+Igor ist ein besser Wisser, 
 einem Igor folgt man nicht,
-wusste schon das git-Gedicht
+wusste schon das git-Gedicht - git blame gedicht.txt - das merk ich mir @palfinger 
